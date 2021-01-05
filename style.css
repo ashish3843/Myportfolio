@@ -1,0 +1,15 @@
+.heading{
+    color:darkturquoise;
+}
+h1{
+    color: lightslategray;
+}
+.half_width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half_width img{
+    width:100%;
+}
