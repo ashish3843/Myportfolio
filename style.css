@@ -6,7 +6,7 @@ body{
     color:darkturquoise;
 }
 h1{
-    color: lightslategray;
+    color: rgb(25, 106, 187);
 }
 .half_width{
     width:40%;
@@ -32,6 +32,26 @@ section {
     color: white;
     font-weight: 700;
     border-radius: 10px;
-    
-
+}
+.middle{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+    text-align: justify;
+}
+.middle img{
+    width:100%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, orange, tomato);
+    padding: 10px 25px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.middle-bannar{
+    background-image: url("img/dream-bg.png");
+    background-repeat: no-repeat;
 }
